@@ -15,7 +15,7 @@ of your wallet. [Full narrative and wording boundaries](NARRATIVE.md).
 | [KAON_Master.svg](KAON_Master.svg) | Original scalable orbital mark, transparent background. |
 | [KAON_Etherscan_32.svg](KAON_Etherscan_32.svg) | Original 32 × 32 listing mark for Etherscan. |
 | [KAON_CMC_200.png](KAON_CMC_200.png) | Original 200 × 200 listing mark for CoinMarketCap. |
-| [kaon-logo-200.png](kaon-logo-200.png) | Existing public asset URL, preserved for integrations. |
+| [kaon-logo-200.png](kaon-logo-200.png) | Compatibility URL using the current supplied CMC mark. |
 | [kaon-workspace.svg](kaon-workspace.svg) | Current cream lockup with slogan and all three pillars. Uses Inter. |
 | [kaon.png](kaon.png) | Current 1360 × 430 lockup, ready to share. |
 | [kaon-og.png](kaon-og.png) · [SVG](kaon-og.svg) | Current 1200 × 630 social preview. |
